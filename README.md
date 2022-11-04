@@ -10,7 +10,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oandreey&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oandreey&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Oandreey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ ![Snake animation](https://github.com/Gustavo1910/Gustavo1910/blob/output/github-contribution-grid-snake.svg)
